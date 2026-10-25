@@ -45,6 +45,6 @@ export const SERVICES_DATA = [
     ],
     intent: "logistics",
     badge: "Commercial",
-    image: "https://images.unsplash.com/photo-1586191582151-f7377464010e?auto=format&fit=crop&w=1200&q=80",
+    image: "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
   },
 ];
