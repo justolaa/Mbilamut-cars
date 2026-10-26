@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://mbilamutcars.com/</loc>
     <lastmod>2026-10-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://mbilamutcars.com/images/branding/logo.png</image:loc>
+      <image:title>Mbilamut Unique Car Hire Services Official Logo</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mbilamutcars.com/images/fleet/mercedes-gla.jpg</image:loc>
+      <image:title>Mercedes-Benz Luxury Crossover Car Hire Jos</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mbilamutcars.com/images/fleet/highlander-silver.jpg</image:loc>
+      <image:title>Toyota Highlander SUV 4WD Hire Jos Plateau</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mbilamutcars.com/images/fleet/hiace-bus.jpg</image:loc>
+      <image:title>Toyota HiAce 14-Seater Bus Rental Jos</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://mbilamutcars.com/images/fleet/sienna-blue.jpg</image:loc>
+      <image:title>Toyota Sienna 7-Seater Family Minivan Rental Jos</image:title>
+    </image:image>
   </url>
 </urlset>
