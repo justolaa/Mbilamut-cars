@@ -13,7 +13,8 @@ export const SERVICES_DATA = [
     ],
     intent: "general",
     badge: "Popular",
-    image: "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1200&q=80",
+    // Uses his real Toyota Land Cruiser Prado TXL
+    image: "/images/fleet/prado-black.jpeg",
   },
   {
     id: "car-rentals",
@@ -29,7 +30,8 @@ export const SERVICES_DATA = [
     ],
     intent: "vehicle",
     badge: "Self-Drive / Chauffeur",
-    image: "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1200&q=80",
+    // Uses his real Toyota Highlander SUV
+    image: "/images/fleet/highlander-silver.jpeg",
   },
   {
     id: "logistics",
@@ -45,6 +47,7 @@ export const SERVICES_DATA = [
     ],
     intent: "logistics",
     badge: "Commercial",
-    image: "https://images.unsplash.com/photo-1601584115197-04ecc0da31d7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=NHwxMjA3fDA%3D",
+    // Uses his real Toyota HiAce High-Roof Commercial Bus
+    image: "/images/fleet/hiace-bus.jpeg",
   },
 ];
